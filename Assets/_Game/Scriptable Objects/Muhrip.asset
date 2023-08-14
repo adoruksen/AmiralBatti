@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97d01dc59668aa45a609e630db57158, type: 3}
+  m_Name: Muhrip
+  m_EditorClassIdentifier: 
+  size: {x: 1, y: 4}
+  shipPrefab: {fileID: 3910821544629220093, guid: c5b9ffcac8c27974f96742b109f4b42d, type: 3}
